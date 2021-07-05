@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "JqmIee2Ex+PJWfQGndEcWa7ejgfHekwBrvCcInuGJ4lPrUdbv70sjvQpGI3fd6pcQ1igj2sTl8wjMPcZjgS0zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dzmitriy_Kakhanouski\\source\\repos\\MSMQ_ForSendingFiles\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\microsoft.extensions.logging.configuration\\5.0.0\\microsoft.extensions.logging.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\microsoft.extensions.logging.console\\5.0.0\\microsoft.extensions.logging.console.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\5.0.0\\microsoft.extensions.options.configurationextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
